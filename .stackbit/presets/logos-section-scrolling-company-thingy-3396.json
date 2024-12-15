@@ -1,0 +1,75 @@
+{
+    "model": "logosSection",
+    "srcType": "sanity",
+    "srcProjectId": "9gtzoxfa:production",
+    "presets": [
+        {
+            "label": "scrolling company thingy",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "asdfsdf"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "heading": "Award winning enterprises trust us",
+                "body": "Recognized excellence.\n",
+                "items": [
+                    {
+                        "$$type": "customImage",
+                        "image": {
+                            "$$ref": "image-409c8299ef6340af8b49f7de840210d2260d1abd-130x144-svg",
+                            "$$type": "__asset_model"
+                        },
+                        "alt": "Unilever logo"
+                    },
+                    {
+                        "$$type": "customImage",
+                        "image": {
+                            "$$ref": "image-399255f770e4ce2901e20bf41c975a8c5cec9766-130x36-svg",
+                            "$$type": "__asset_model"
+                        },
+                        "alt": "Riot Games logo"
+                    },
+                    {
+                        "$$type": "customImage",
+                        "image": {
+                            "$$ref": "image-eb987c24742a7c0b96430ccc89b1f4f618f4ad77-130x129-svg",
+                            "$$type": "__asset_model"
+                        },
+                        "alt": "Mattel"
+                    },
+                    {
+                        "$$type": "customImage",
+                        "image": {
+                            "$$ref": "image-f5475c45fb1cf4735e70374e42b52519a9e90249-130x44-svg",
+                            "$$type": "__asset_model"
+                        },
+                        "alt": "Google"
+                    },
+                    {
+                        "$$type": "customImage",
+                        "image": {
+                            "$$ref": "image-81937d8913ce3354c25a9cd3d4ea227a8a340612-130x44-svg",
+                            "$$type": "__asset_model"
+                        },
+                        "alt": "Peloton"
+                    },
+                    {
+                        "$$type": "customImage",
+                        "image": {
+                            "$$ref": "image-ca16cfc4b71cdd10edde06eb0dc37d56e893696b-119x37-svg",
+                            "$$type": "__asset_model"
+                        },
+                        "alt": "Twilio"
+                    }
+                ],
+                "theme": null,
+                "backgroundImage": null,
+                "width": null,
+                "motion": null
+            }
+        }
+    ]
+}
